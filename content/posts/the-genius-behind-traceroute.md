@@ -1,5 +1,4 @@
 +++
-author="Iván Moreno"
 date = "2019-10-12T23:45:00+02:00"
 description = "Have you ever asked yourself what is the journey a packet follows in order to reach its destination?"
 tags = ["networking"]
