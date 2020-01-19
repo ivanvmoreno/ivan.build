@@ -1,4 +1,4 @@
-baseURL = "https://ivanmoreno.me/"
+baseURL = "https://ivan.build/"
 languageCode = "en-us"
 title = "Iván Moreno's blog"
 theme = "hello-friend"
