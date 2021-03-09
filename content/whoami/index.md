@@ -3,7 +3,7 @@ date = "2018-06-20T14:02:37+02:00"
 title = "whoami"
 +++
 
-Hello there! 👋🏻 This is Iván Moreno, a software engineer from Madrid, Spain.
+This is Iván Moreno, a software engineer from Madrid, Spain.
 
 Currently based in Denmark, I'm working at [The LEGO Group](https://www.lego.com/) as a software engineer.
 
