@@ -5,7 +5,7 @@ title = "whoami"
 
 Hello there! 👋🏻 This is Iván Moreno, a software engineer from Madrid, Spain.
 
-Currently based in Denmark, I'm working at [LEGO](https://www.lego.com/) as a Student Worker while finishing a _BSc. in Software Development_ at the [Erhvervsakademi Sydvest](https://www.easv.dk/en/about-us/).
+Currently based in Denmark, I'm working at [The LEGO Group](https://www.lego.com/) as a software engineer.
 
 In this blog you'll find contents about web technologies, system administration, container orchestration, and other topics related to software engineering.
 
